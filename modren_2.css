@@ -1,0 +1,36 @@
+body{
+background: url(2img.png);
+background-size: cover;
+}
+
+.pox{
+
+background: rgba(0,0,0, 0.4);
+width: 450px;
+text-align: center;
+padding: 40px;
+color: white;
+padding: 40px; 
+margin: auto;
+margin-top: 5%;
+
+}
+
+.pox2{
+    width:450px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px; ;
+    text-align: center;
+    margin:auto;
+    margin-top: 5%;
+    color:white;
+    font-family: "century Gothic" , sans-serif;
+}
+
+.pox h1 {
+    background-color: rgb(71, 70, 70);
+}
+ .pox b {
+font-size: 20px;
+
+ }
